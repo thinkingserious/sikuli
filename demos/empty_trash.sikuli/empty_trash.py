@@ -1,4 +1,5 @@
-from sikuli import *
+from sikuli import type, mouseMove, mouseDown, click
+
 type("d", Key.ALT + Key.CMD) # show the dock, if hidden
 mouseMove("trash.png")
 mouseDown(Button.RIGHT);
