@@ -1,8 +1,10 @@
-# Automating with Sikuli Quickstart
+# Desktop Automation with Sikuli
 
-## Prerequisites
+## Quickstart
 
-This tutorial is tested on macOS version 11.0.1 (20B29)
+### Prerequisites
+
+This tutorial is tested on macOS version 11.0.1 (20B29).
 
 * Install Java 8 or later
   * Verify by running `java --version`
@@ -10,12 +12,15 @@ This tutorial is tested on macOS version 11.0.1 (20B29)
 * Install Tesseract for macOS
   * `brew install tesseract`
   * Verify by running `tesseract -v`
-* [Download the SikulX IDE](https://launchpad.net/sikuli/sikulix/2.0.4/+download/sikulixide-2.0.4.jar)
-  * To start the IDE: `java -jar sikulixide-2.0.4.jar`
+* Download the SikulX IDE: [download link](https://launchpad.net/sikuli/sikulix/2.0.4/+download/sikulixide-2.0.4.jar) or use `wget https://launchpad.net/sikuli/sikulix/2.0.4/+download/sikulixide-2.0.4.jar` from the command line
 
-## Run a demo from the command line
+## Lunch the Sikuli IDE: `java -jar sikulixide-2.0.4.jar`
+
+### Run a demo from the command line
 
 `java -jar sikulixide-2.0.4.jar -r demos/empty_trash.sikuli`
+
+Note that you may need to adjust the images and/or source code per your environment, especially if you are working within a Windows or Linux OS or are using a different version of macOS. You can either edit the files directly or utilize the Sikuli IDE.
 
 ## References
 
