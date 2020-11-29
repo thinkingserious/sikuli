@@ -1,4 +1,4 @@
-# Desktop Automation with Sikuli
+# Desktop Automation with Sikuli and Python
 
 ## Quickstart
 
