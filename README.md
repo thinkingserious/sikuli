@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-This tutorial is tested on macOS version 11.0.1 (20B29).
+This tutorial is tested on macOS version `10.15.7 (19H15)` and `11.0.1 (20B29)`.
 
 * Install Java 8 or later
   * Verify by running `java --version`
