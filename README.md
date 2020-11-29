@@ -14,7 +14,9 @@ This tutorial is tested on macOS version 11.0.1 (20B29).
   * Verify by running `tesseract -v`
 * Download the SikulX IDE: [download link](https://launchpad.net/sikuli/sikulix/2.0.4/+download/sikulixide-2.0.4.jar) or use `wget https://launchpad.net/sikuli/sikulix/2.0.4/+download/sikulixide-2.0.4.jar` from the command line
 
-## Lunch the Sikuli IDE: `java -jar sikulixide-2.0.4.jar`
+### Launch the Sikuli IDE
+
+`java -jar sikulixide-2.0.4.jar`
 
 ### Run a demo from the command line
 
