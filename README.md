@@ -32,3 +32,4 @@ Note that you may need to adjust the images and/or source code per your environm
 * http://sikulix.com/quickstart
 * https://sikulix-2014.readthedocs.io/en/latest/toc.html
 * https://github.com/RaiMan/SikuliX1
+* http://doc.sikuli.org/keys.html
