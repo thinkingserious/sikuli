@@ -10,7 +10,8 @@ This tutorial is tested on macOS version 11.0.1 (20B29).
 * Install Tesseract for macOS
   * `brew install tesseract`
   * Verify by running `tesseract -v`
-* Download the SikulX IDE: [download link](https://launchpad.net/sikuli/sikulix/2.0.4/+download/sikulixide-2.0.4.jar) or use `wget https://launchpad.net/sikuli/sikulix/2.0.4/+download/sikulixide-2.0.4.jar` from the command line
+* Download the SikuliX IDE: [download link](https://launchpad.net/sikuli/sikulix/2.0.4/+download/sikulixide-2.0.4.jar) or use `wget https://launchpad.net/sikuli/sikulix/2.0.4/+download/sikulixide-2.0.4.jar` from the command line
+* See the SikuliX docs for a [complete list of prerequisites](http://sikulix.com/quickstart)
 
 ## Launch the Sikuli IDE
 
