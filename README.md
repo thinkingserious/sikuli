@@ -18,6 +18,8 @@ This tutorial is tested on macOS version `10.15.7 (19H15)` and `11.0.1 (20B29)`.
 
 `java -jar sikulixide-2.0.4.jar`
 
+Note that upon first start you will likely be prompted to grant several privacy permissions. Please read and execute carefully.
+
 ## Run a demo from the command line
 
 `java -jar sikulixide-2.0.4.jar -r demos/empty_trash.sikuli`
