@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-This tutorial is tested on macOS version 11.0.1 (20B29).
+This tutorial is tested on macOS version `10.15.7 (19H15)` and `11.0.1 (20B29)`.
 
 * Install Java 8 or later
   * Verify by running `java --version`
@@ -11,11 +11,14 @@ This tutorial is tested on macOS version 11.0.1 (20B29).
   * `brew install tesseract`
   * Verify by running `tesseract -v`
 * Download the SikuliX IDE: [download link](https://launchpad.net/sikuli/sikulix/2.0.4/+download/sikulixide-2.0.4.jar) or use `wget https://launchpad.net/sikuli/sikulix/2.0.4/+download/sikulixide-2.0.4.jar` from the command line
+* Download Jython standalone jar: [download link](https://repo1.maven.org/maven2/org/python/jython-standalone/2.7.2/jython-standalone-2.7.2.jar) or use `wget https://repo1.maven.org/maven2/org/python/jython-standalone/2.7.2/jython-standalone-2.7.2.jar` from the command line
 * See the SikuliX docs for a [complete list of prerequisites](http://sikulix.com/quickstart)
 
 ## Launch the Sikuli IDE
 
 `java -jar sikulixide-2.0.4.jar`
+
+Note that upon first start you will likely be prompted to grant several privacy permissions. Please read and execute carefully.
 
 ## Run a demo from the command line
 
