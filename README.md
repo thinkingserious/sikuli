@@ -4,7 +4,7 @@
 
 This tutorial is tested on macOS version `10.15.7 (19H15)` and `11.0.1 (20B29)`.
 
-* Install Java 8 or later
+* Install Java 8 or Java 11
   * Verify by running `java --version`
   * If you don't have Java 8 or above, check out the [openJDK installation tutorial](https://solarianprogrammer.com/2018/09/28/installing-openjdk-macos/)
 * Install Tesseract for macOS
